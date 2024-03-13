@@ -6,9 +6,11 @@
     - stick to walls
     - superhuman strength
     - spider-tingle
+  universe: Marvel
 - first_name : Bruce
   last_name  : Waine
   hero_name : Batman
   power: 
     - rich
     - martial arts
+  universe: DC
