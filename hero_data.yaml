@@ -14,3 +14,11 @@
     - rich
     - martial arts
   universe: DC
+- first_name : Clark
+  last_name  : Kent
+  hero_name : Superman
+  power: 
+    - superhuman strength
+    - flight
+    - heat vision
+  universe: DC
