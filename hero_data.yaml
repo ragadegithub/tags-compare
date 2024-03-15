@@ -30,3 +30,10 @@
     - genius
     - suit
   universe: Marvel 
+- first_name : Steve
+  last_name  : Rogers
+  hero_name : Captain America
+  power: 
+    - superhuman strength
+    - shield
+  universe: Marvel
