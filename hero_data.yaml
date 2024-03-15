@@ -22,3 +22,18 @@
     - flight
     - heat vision
   universe: DC
+- first_name : Tony
+  last_name  : Stark
+  hero_name : Ironman
+  power: 
+    - rich
+    - genius
+    - suit
+  universe: Marvel 
+- first_name : Steve
+  last_name  : Rogers
+  hero_name : Captain America
+  power: 
+    - superhuman strength
+    - shield
+  universe: Marvel
