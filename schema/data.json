@@ -1,0 +1,46 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "type": "array",
+    "items": {
+        "$ref": "#/definitions/hero_data"
+    },
+    "definitions": {
+        "hero_data": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "first_name": {
+                    "type": "string"
+                },
+                "last_name": {
+                    "type": "string"
+                },
+                "hero_name": {
+                    "type": "string"
+                },
+                "power": {
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "enum": [ "Martial Arts","rich","spider-tingle","web","stick to walls","super strength", "super speed", "flight", "telekinesis", "telepathy", "invisibility", "invulnerability", "teleportation", "time travel",
+                        "immortality", "shapeshifting", "super self-actualization", "God", "Goddess","Heat Vision","Flight","Genius","Scientist", "Empathy"
+                       ]
+   
+                    }
+                },
+                "universe": {
+                    "type": "string",
+                    "enum": [ "Marvel", "DC", "Other"]
+                }
+            },
+            "required": [
+                "first_name",
+                "hero_name",
+                "last_name",
+                "power",
+                "universe"
+            ],
+            "title": "hero_data"
+        }
+    }
+}

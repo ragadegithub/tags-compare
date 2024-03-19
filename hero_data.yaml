@@ -1,39 +1,45 @@
-- first_name : Peter
-  last_name  : Parker
-  hero_name : Spiderman
-  power: 
+- first_name: Peter
+  last_name: Parker
+  hero_name: Spiderman
+  power:
     - web
     - stick to walls
-    - superhuman strength
+    - super strength
     - spider-tingle
   universe: Marvel
-- first_name : Bruce
-  last_name  : Waine
-  hero_name : Batman
-  power: 
+- first_name: Bruce
+  last_name: Waine
+  hero_name: Batman
+  power:
     - rich
-    - martial arts
+    - Martial Arts
   universe: DC
-- first_name : Clark
-  last_name  : Kent
-  hero_name : Superman
-  power: 
-    - superhuman strength
-    - flight
-    - heat vision
+- first_name: Clark
+  last_name: Kent
+  hero_name: Superman
+  power:
+    - super strength
+    - Flight
   universe: DC
-- first_name : Tony
-  last_name  : Stark
-  hero_name : Ironman
-  power: 
+- first_name: Tony
+  last_name: Stark
+  hero_name: Ironman
+  power:
     - rich
-    - genius
-    - suit
-  universe: Marvel 
-- first_name : Steve
-  last_name  : Rogers
-  hero_name : Captain America
-  power: 
-    - superhuman strength
-    - shield
+    - Genius
+    - Scientist
   universe: Marvel
+- first_name: Steve
+  last_name: Rogers
+  hero_name: Captain America
+  power:
+    - super strength
+    - Empathy
+  universe: Marvel
+- first_name: Diana
+  last_name: unknown
+  hero_name: Wonder Woman
+  power:
+    - Goddess
+    - super strength
+  universe: DC

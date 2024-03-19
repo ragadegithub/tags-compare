@@ -1,0 +1,6 @@
+{
+    "yaml.schemas": {
+        "./schema/data.json": "*.yaml"
+    },
+    "yaml.completion": true
+}
