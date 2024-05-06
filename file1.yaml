@@ -1,1 +1,7 @@
-Terrible change
+- first_name: Roger
+  last_name: Rare
+  hero_name: Bear
+  power:
+    - super strength
+  universe: Other
+
